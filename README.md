@@ -32,8 +32,6 @@ References:
 <!-- [Hex to Bin Converter](https://hex2bin.sourceforge.net/) -->
 
 ---
-Logging
-
-Oct 3, 2022 - Initial Meeting
-
+Logging\
+Oct 3, 2022 - Initial Meeting\
 Oct 4, 2022 - CLI prep, Parsing .txt file
