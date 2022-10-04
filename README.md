@@ -33,5 +33,7 @@ References:
 
 ---
 Logging
+
 Oct 3, 2022 - Initial Meeting
+
 Oct 4, 2022 - CLI prep, Parsing .txt file
